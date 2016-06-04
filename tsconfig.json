@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"outDir": "js/",
+		"sourceMap": true,
+		"watch": true
+	},
+	"exclude": [
+		"node_modules",
+		"typings/browser.d.ts",
+		"typings/browser"
+	]
+}
